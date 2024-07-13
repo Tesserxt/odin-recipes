@@ -1,0 +1,22 @@
+body {
+    background-color:antiquewhite;
+}
+
+h1 {
+    color: #800020;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
